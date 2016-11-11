@@ -1,0 +1,6 @@
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\DateDifference\DateDifference\bin\Debug\DateDifference.exe.config
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\DateDifference\DateDifference\bin\Debug\DateDifference.exe
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\DateDifference\DateDifference\bin\Debug\DateDifference.pdb
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.exe
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.pdb
